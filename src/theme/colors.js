@@ -1,0 +1,26 @@
+const COLORS = {
+    primary: '#6666FF',
+    accentColor: '#EA3CD5',
+    secondary: '#F2F2F2',
+    SearchIconClolor: '#000',
+    searchBarBackground: '#F2F2F2',
+    greyIcon: '#999999',
+    themeBaseTextColor: '#000',
+    userRanking: '#F9FFD5',
+    reputationColor: '#DDFEDD',
+    followersColor: '#CDCDFF',
+    neutralGreyColor: '#F2F2F2',
+    dangerColor: '#FF6C6C',
+    greyBorder: '#EFEFEF',
+    bgColor: '#F3F2EF',
+    border: '1px solid #CCCCCC',
+    notificationDotColor: '#9999FF',
+    argumentCommentIconColor: '#EF6ADF',
+    primarySelectedShade: '#CDCDFF',
+    commentSectionColor: '#FCFCFC',
+    neutralTextBlack: '#231F20',
+    createPostBGColor: '23282D',
+    navBarClolor: '#fff',
+}
+
+export default COLORS

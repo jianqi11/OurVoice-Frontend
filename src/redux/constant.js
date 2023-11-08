@@ -1,0 +1,7 @@
+export const CHANGELANGUAGE = 'changeLanguage'
+export const CHANGEEXPAND = 'changeexpand'
+export const CHANGETHEME = 'changetheme'
+export const CHANGESIDEMENU = 'changesidemenu'
+export const SETUSERINFO = 'setuserinfo'
+export const CHANGETRENDINGPOST = 'changetrendingpost'
+export const CHANGETRENDINGTITLE = 'changetrendingtitle'

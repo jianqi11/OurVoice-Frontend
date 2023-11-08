@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* 隐藏垂直滚动条 */
+::-webkit-scrollbar {
+    width: 0;
+}
+
+/* 隐藏水平滚动条 */
+::-webkit-scrollbar {
+    height: 0;
+}
